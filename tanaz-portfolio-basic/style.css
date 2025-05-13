@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: 'Noto Serif', serif;
+  background: linear-gradient(to bottom, #5409DA, #4E71FF, #8DD8FF, #BBFBFF);
+  color: #ffffff;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #BBFBFF;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 40px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+
+a {
+  color: #ffffff;
+}
+
+.summary {
+  margin-top: 10px;
+  font-size: 1.1em;
+}
